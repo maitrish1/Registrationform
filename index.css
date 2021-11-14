@@ -1,0 +1,19 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+.register{
+    text-align: center;
+    padding:200px; 
+}
+.login{
+    text-align: center;
+    padding: 250px;
+}
+.form1{
+    background-color: bisque;
+    text-align: center;
+    /* padding:100px; */
+   
+    
+}
